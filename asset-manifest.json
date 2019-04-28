@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/chesszi-react-application/static/css/main.aa96c661.chunk.css",
-    "main.js": "/chesszi-react-application/static/js/main.7202c4cf.chunk.js",
-    "main.js.map": "/chesszi-react-application/static/js/main.7202c4cf.chunk.js.map",
-    "runtime~main.js": "/chesszi-react-application/static/js/runtime~main.59ce4d23.js",
-    "runtime~main.js.map": "/chesszi-react-application/static/js/runtime~main.59ce4d23.js.map",
-    "static/js/2.013b68df.chunk.js": "/chesszi-react-application/static/js/2.013b68df.chunk.js",
-    "static/js/2.013b68df.chunk.js.map": "/chesszi-react-application/static/js/2.013b68df.chunk.js.map",
-    "index.html": "/chesszi-react-application/index.html",
-    "precache-manifest.aafebbdd462682fee1a7ecf02e555480.js": "/chesszi-react-application/precache-manifest.aafebbdd462682fee1a7ecf02e555480.js",
-    "service-worker.js": "/chesszi-react-application/service-worker.js",
-    "static/css/main.aa96c661.chunk.css.map": "/chesszi-react-application/static/css/main.aa96c661.chunk.css.map",
-    "static/media/chessboard.jpg": "/chesszi-react-application/static/media/chessboard.08cd663d.jpg"
+    "main.css": "/chesszi-react-application-demo/static/css/main.aa96c661.chunk.css",
+    "main.js": "/chesszi-react-application-demo/static/js/main.0bb6dcc6.chunk.js",
+    "main.js.map": "/chesszi-react-application-demo/static/js/main.0bb6dcc6.chunk.js.map",
+    "runtime~main.js": "/chesszi-react-application-demo/static/js/runtime~main.4d746fa8.js",
+    "runtime~main.js.map": "/chesszi-react-application-demo/static/js/runtime~main.4d746fa8.js.map",
+    "static/js/2.84925c87.chunk.js": "/chesszi-react-application-demo/static/js/2.84925c87.chunk.js",
+    "static/js/2.84925c87.chunk.js.map": "/chesszi-react-application-demo/static/js/2.84925c87.chunk.js.map",
+    "index.html": "/chesszi-react-application-demo/index.html",
+    "precache-manifest.ef297a3666e93a7d32ce28aaebb27611.js": "/chesszi-react-application-demo/precache-manifest.ef297a3666e93a7d32ce28aaebb27611.js",
+    "service-worker.js": "/chesszi-react-application-demo/service-worker.js",
+    "static/css/main.aa96c661.chunk.css.map": "/chesszi-react-application-demo/static/css/main.aa96c661.chunk.css.map",
+    "static/media/chessboard.jpg": "/chesszi-react-application-demo/static/media/chessboard.08cd663d.jpg"
   }
 }
