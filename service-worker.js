@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.0/workbox-sw.js");
 
 importScripts(
-  "/chesszi-react-application/precache-manifest.a490a372fe892936f5e6e8e3419b55a2.js"
+  "/chesszi-react-application/precache-manifest.aafebbdd462682fee1a7ecf02e555480.js"
 );
 
 self.addEventListener('message', (event) => {

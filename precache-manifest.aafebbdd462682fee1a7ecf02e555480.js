@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "02e947ad112520279584454abfb5d53a",
+    "revision": "ed58124ec7dc4561598da05bf5c6daea",
     "url": "/chesszi-react-application/index.html"
   },
   {
