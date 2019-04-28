@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/chesszi-react-application/static/css/main.aa96c661.chunk.css",
-    "main.js": "/chesszi-react-application/static/js/main.6ea5b0d6.chunk.js",
-    "main.js.map": "/chesszi-react-application/static/js/main.6ea5b0d6.chunk.js.map",
+    "main.js": "/chesszi-react-application/static/js/main.7202c4cf.chunk.js",
+    "main.js.map": "/chesszi-react-application/static/js/main.7202c4cf.chunk.js.map",
     "runtime~main.js": "/chesszi-react-application/static/js/runtime~main.59ce4d23.js",
     "runtime~main.js.map": "/chesszi-react-application/static/js/runtime~main.59ce4d23.js.map",
-    "static/js/2.09508020.chunk.js": "/chesszi-react-application/static/js/2.09508020.chunk.js",
-    "static/js/2.09508020.chunk.js.map": "/chesszi-react-application/static/js/2.09508020.chunk.js.map",
+    "static/js/2.013b68df.chunk.js": "/chesszi-react-application/static/js/2.013b68df.chunk.js",
+    "static/js/2.013b68df.chunk.js.map": "/chesszi-react-application/static/js/2.013b68df.chunk.js.map",
     "index.html": "/chesszi-react-application/index.html",
-    "precache-manifest.61d5f7074317f462751c42c328ecba5a.js": "/chesszi-react-application/precache-manifest.61d5f7074317f462751c42c328ecba5a.js",
+    "precache-manifest.a490a372fe892936f5e6e8e3419b55a2.js": "/chesszi-react-application/precache-manifest.a490a372fe892936f5e6e8e3419b55a2.js",
     "service-worker.js": "/chesszi-react-application/service-worker.js",
     "static/css/main.aa96c661.chunk.css.map": "/chesszi-react-application/static/css/main.aa96c661.chunk.css.map",
     "static/media/chessboard.jpg": "/chesszi-react-application/static/media/chessboard.08cd663d.jpg"

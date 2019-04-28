@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b9adbb92aab7c4b673c7d95168ccd46a",
+    "revision": "02e947ad112520279584454abfb5d53a",
     "url": "/chesszi-react-application/index.html"
   },
   {
-    "revision": "ab598abc0fc8e7bfaf85",
+    "revision": "664396a3edc7eff463d2",
     "url": "/chesszi-react-application/static/css/main.aa96c661.chunk.css"
   },
   {
-    "revision": "0878c552e2a912fd8090",
-    "url": "/chesszi-react-application/static/js/2.09508020.chunk.js"
+    "revision": "918da88b1a4cf2796b76",
+    "url": "/chesszi-react-application/static/js/2.013b68df.chunk.js"
   },
   {
-    "revision": "ab598abc0fc8e7bfaf85",
-    "url": "/chesszi-react-application/static/js/main.6ea5b0d6.chunk.js"
+    "revision": "664396a3edc7eff463d2",
+    "url": "/chesszi-react-application/static/js/main.7202c4cf.chunk.js"
   },
   {
     "revision": "1b50ea11f968fd79cac8",
